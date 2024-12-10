@@ -3,7 +3,7 @@ import requests
 
 
 
-TEST_URL = 'http://127.0.0.1:8000/get_form'
+TEST_URL = 'http://localhost:8000/get_form'
 
 
 def test_user():
